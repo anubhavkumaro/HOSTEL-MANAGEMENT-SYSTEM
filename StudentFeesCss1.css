@@ -1,0 +1,16 @@
+﻿.StudentFees {
+    width:1050px;
+    height:800px;
+    background-color:rgb(203, 39, 127);
+}
+
+* {
+    margin:0;
+    }
+body {
+    margin-top:50px;
+    margin-left:150px;
+    background-image:url("hostel.jpg");
+    background-size:cover;
+
+}

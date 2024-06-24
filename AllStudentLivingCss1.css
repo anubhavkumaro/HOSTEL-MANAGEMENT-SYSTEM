@@ -1,0 +1,22 @@
+﻿.AllStudentLiving1 {
+    width:1345px;
+    height:650px;
+    background-color:rgb(203, 39, 127);
+    margin:2px;
+}
+#Label1 {
+    font-family:Algerian;
+    color:white;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#GridView1 {
+margin-left:20px;
+margin-right:20px;
+margin-top:20px;
+}
+
+
+

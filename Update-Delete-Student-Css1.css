@@ -1,0 +1,13 @@
+﻿.Update-Delete-Student {
+    width:950px;
+    height:560px;
+    background-color:rgb(203, 39, 127);
+}
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    margin-top:50px;
+    margin-left:220px;
+}

@@ -1,0 +1,21 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+.NewStudent {   
+    width:875px;
+    height:512px;
+    background-color:rgb(203, 39, 127);
+}
+.auto-style3{
+  
+    text-align:right;
+    
+    
+}
+body {
+    margin-top:60px;
+    margin-left:250px;
+    background-image:url("hostel.jpg");
+    background-size:cover;
+}

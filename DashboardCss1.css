@@ -1,0 +1,86 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+.Dashboard {
+    width:1350px;
+    height:930px;
+     background-color:rgb(203, 39, 127);
+}
+#Image1 {
+    border-radius:5%;
+}
+#Button1,#Button2,#Button3,#Button4,#Button5,#Button6,#Button7,#Button8,#Button9,#Button10,#Button11{
+    color:white;
+    background-color:rgb(203, 39, 127);
+} 
+#Button1:hover{
+    color:rgb(203, 39, 127);
+    background-color:white;
+    border-radius:30px;
+}
+#Button2:hover{
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+
+}
+  #Button3:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+     #Button4:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+    #Button5:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+     #Button6:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+    #Button7:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }  
+    #Button8:hover {
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+    #Button9:hover{
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    } 
+    #Button10:hover{
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+    #Button11:hover{
+        color:rgb(203, 39, 127);
+        background-color:white;
+        border-radius:30px;
+    }
+#Label1 {
+    font-family:Algerian;
+    font-size:30px;
+    color:white;
+}
+#Label2 {
+    font-family:Constantia;
+    font-size:50px;
+    color:white; 
+    
+}
+.auto-style6 {
+    text-align:right;
+}

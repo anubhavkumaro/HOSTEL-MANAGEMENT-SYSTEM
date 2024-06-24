@@ -1,0 +1,20 @@
+﻿* {
+    margin: 0 0 2px 0;
+    padding: 0;
+}
+.room {
+    width: 875px;
+    height: 590px;
+    background-color:rgb(203, 39, 127);
+}
+#GridView1 {
+    margin:50px;
+    margin-top:0;
+}
+body {
+    margin-top:25px;
+    margin-left:250px;
+    margin-right:200px;
+    background-image:url("hostel.jpg");
+    background-size:cover;
+}

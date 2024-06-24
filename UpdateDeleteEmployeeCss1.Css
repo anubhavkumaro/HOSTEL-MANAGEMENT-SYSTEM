@@ -1,0 +1,14 @@
+﻿.UpdateDeleteEmployee {
+    width: 900px;
+    height: 530px;
+    background-color:rgb(203, 39, 127);
+   
+    margin-top: 60px;
+    margin-left: 250px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
